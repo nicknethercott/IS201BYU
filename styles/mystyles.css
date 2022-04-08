@@ -1,0 +1,86 @@
+
+hr.divider
+{ 
+   margin-top: 0em;
+   margin-bottom: 0em;
+   border-width: 2px;
+} 
+
+p {
+    margin: 0;
+    padding: 0; 
+  }
+
+#resumeMetaInfo{
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#resumeMetaInfo a:link{
+    color: black;
+    text-decoration: none;
+}
+
+#resumeMetaInfo a:hover{
+    color: rgba(204, 138, 38, 0.815);
+}
+
+#resumeMetaInfo a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+.resumeTitle{
+    color:black;
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+.resumeItem{
+    color:black;
+    text-align: left;
+    font-weight: bolder;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.resumeSubItem{
+    color:black;
+    text-align: left;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8rem;
+}
+
+.resumeBullet{
+    color:black;
+    text-align: left;
+    font-weight:bold;
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8rem;
+}
+
+.resumeDate{
+    float:right;
+    color:black;
+    text-align: right;
+    font-weight:normal;
+    font-style:normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    line-height: 1em;
+    padding-top:5px;
+}
+
+.byuimagesize{
+    width:80%;
+}
